@@ -1,0 +1,6 @@
+
+
+<span style="color:red"><b> Error: </b></span> Error on   Delete Objective
+      
+
+![](https://storage.googleapis.com/fluxble-reporting/screenShot6392yQ7dmcAscl02.png?authuser=1)
